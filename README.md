@@ -1,7 +1,7 @@
 ## Olá 👋
 
 <div>
-  <p>Olá, me nome pe Hugo Leonado. Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluções na prática. Tenho experiência com desenvolvimento web utilizando HTML, CSS, JavaScript e React no front-end, além de Node.js, Express, Python e MySQL no back-end. Gosto de desenvolver projetos próprios, trabalhar com APIs REST, integrar serviços externos e construir aplicações completas do banco de dados à interface do usuário.</p>
+  <p>Olá, me nome é Hugo Leonado. Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluções na prática. Tenho experiência com desenvolvimento web utilizando HTML, CSS, JavaScript e React no front-end, além de Node.js, Express, Python e MySQL no back-end. Gosto de desenvolver projetos próprios, trabalhar com APIs REST, integrar serviços externos e construir aplicações completas do banco de dados à interface do usuário.</p>
 </div>
 
 ### 🌐 Tecnologias
